@@ -19,16 +19,7 @@ criaCartao(
 criaCartao(
     'Marca Wahl',
     'A Wahl faz apenas máquinas para cortar cabelo?',
-    'A Wahl não faz apenas máquinas de cortar cabelo. A empresa fabrica uma variedade de produtos para cuidados pessoais e de animais, incluindo:
-
-Aparadores de pelos: para barba, corpo, nariz e orelhas.
-
-Barbeadores elétricos: para um barbear rente.
-
-Máquinas de tosa: para cuidar de cães e outros pets.
-
-Acessórios: como pentes, lâminas e óleos.'
-)
+    'A Wahl não faz apenas máquinas de cortar cabelo. A empresa fabrica uma variedade de produtos para cuidados pessoais e de animais.'
 
 criaCartao(
     'Marca Wahl',
