@@ -15,3 +15,29 @@ criaCartao(
     'Qual a origem da Wahl?',
     'A Wahl foi fundada nos Estados Unidos. Mais precisamente, a Wahl Clipper Corporation foi estabelecida em 1919 em Sterling, Illinois, por Leo J. Wahl. Ele é reconhecido como o inventor da primeira máquina de cortar cabelo elétrica prática com motor interno. '
 )
+
+criaCartao(
+    'Marca Wahl',
+    'A Wahl faz apenas máquinas para cortar cabelo?',
+    'A Wahl não faz apenas máquinas de cortar cabelo. A empresa fabrica uma variedade de produtos para cuidados pessoais e de animais, incluindo:
+
+Aparadores de pelos: para barba, corpo, nariz e orelhas.
+
+Barbeadores elétricos: para um barbear rente.
+
+Máquinas de tosa: para cuidar de cães e outros pets.
+
+Acessórios: como pentes, lâminas e óleos.'
+)
+
+criaCartao(
+    'Marca Wahl',
+    'Qual a melhor maquina da Wahl?',
+    'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
+)
+
+criaCartao(
+    'Marca Wahl',
+    'Qual a melhor maquina da Wahl?',
+    'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
+)
