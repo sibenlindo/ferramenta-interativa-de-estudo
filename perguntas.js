@@ -20,6 +20,7 @@ criaCartao(
     'Marca Wahl',
     'A Wahl faz apenas máquinas para cortar cabelo?',
     'A Wahl não faz apenas máquinas de cortar cabelo. A empresa fabrica uma variedade de produtos para cuidados pessoais e de animais.'
+)
 
 criaCartao(
     'Marca Wahl',
