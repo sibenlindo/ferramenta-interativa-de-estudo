@@ -27,9 +27,3 @@ criaCartao(
     'Qual a melhor maquina da Wahl?',
     'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
 )
-
-criaCartao(
-    'Marca Wahl',
-    'Qual a melhor maquina da Wahl?',
-    'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
-)
