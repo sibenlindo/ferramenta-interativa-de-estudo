@@ -1,11 +1,5 @@
 criaCartao(
     'Marca Wahl',
-    'O que é Wahl?',
-    'A Wahl é uma das principais marcas no setor de barbearia, oferecendo uma variedade de máquinas para uso doméstico, aparadores de barba e bigode, e produtos de cuidado pessoal.Com mais de 15 anos de experiência, a marca se expandiu constantemente, adquirindo marcas internacionais de renome.'
-)
-
-criaCartao(
-    'Marca Wahl',
     'Qual a melhor maquina da Wahl?',
     'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
 )
