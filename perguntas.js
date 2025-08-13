@@ -14,3 +14,4 @@ criaCartao(
     'Marca Wahl',
     'Qual a origem da Wahl?',
     'A Wahl foi fundada nos Estados Unidos. Mais precisamente, a Wahl Clipper Corporation foi estabelecida em 1919 em Sterling, Illinois, por Leo J. Wahl. Ele é reconhecido como o inventor da primeira máquina de cortar cabelo elétrica prática com motor interno. '
+)
