@@ -24,6 +24,6 @@ criaCartao(
 
 criaCartao(
     'Marca Wahl',
-    'Qual a melhor maquina da Wahl?',
-    'A melhor máquina da Wahl é a Star Magic Clip Cord/Cordless, agora com um motor mais potente e uma lâmina especial que texturiza enquanto corta, garantindo uma graduação perfeita.'
+    'Quais inovações tecnológicas a Wahl introduziu em suas máquinas de cortar cabelo e outros produtos?',
+    'A Wahl é líder no mercado de máquinas de cortar cabelo, misturando tradição com tecnologia para aprimorar seus produtos. Suas inovações incluem o uso de **motores e lâminas avançadas**, como as de aço de alto carbono, que garantem cortes mais precisos e duradouros. A empresa é conhecida pela lâmina **Stagger-Tooth**, com dentes alternados ideais para criar degradês suaves, e pela tecnologia **"Crunch Blade"**, que usa o som do corte como um feedback para o barbeiro. Além disso, a Wahl investe em **baterias de íons de lítio** para maior tempo de uso sem fio e em um **design ergonômico** para reduzir a fadiga de quem a utiliza.'
 )
